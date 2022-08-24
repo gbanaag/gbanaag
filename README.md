@@ -1,4 +1,7 @@
-### Hi there 👋
+### Helloo, World! 👋
+
+## currently: 👩🏻‍🏫 IA @ kode with klossy 👩🏻‍💻 sys admin @ CoRE
+## previously: 🌍 web @ helloo world ⚡️ technical @ ttny 🦋 product @ trill project
 
 <!--
 **gbanaag/gbanaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
