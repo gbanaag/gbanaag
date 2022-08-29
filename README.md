@@ -5,9 +5,9 @@ currently:
 * 👩🏻‍💻 sys admin @ CoRE <br>
 <br>
 previously: <br>
-* 🌍 web @ helloo world <br>
-* ⚡️ technical @ ttny  <br>
-* 🦋 product @ trill project
+- 🌍 web @ helloo world <br>
+- ⚡️ technical @ ttny  <br>
+- 🦋 product @ trill project
 
 <!--
 **gbanaag/gbanaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
