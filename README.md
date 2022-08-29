@@ -5,7 +5,7 @@ currently:
 * 👩🏻‍💻 sys admin @ CoRE <br>
 <br>
 previously: 
-* 🌍 web @ helloo world 
+* 🌍 web @ helloo world
 * ⚡️ technical @ ttny 
 * 🦋 product @ trill project
 
