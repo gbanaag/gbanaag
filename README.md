@@ -1,6 +1,6 @@
 # Helloo, World! 🌍 I'm Gabby Banaag 👋
 
-currently: 👩🏻‍🏫 IA @ kode with klossy 👩🏻‍💻 sys admin @ CoRE
+currently: 👩🏻‍🏫 IA @ kode with klossy 👩🏻‍💻 sys admin @ CoRE <br>
 previously: 🌍 web @ helloo world ⚡️ technical @ ttny 🦋 product @ trill project
 
 <!--
