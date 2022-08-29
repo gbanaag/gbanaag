@@ -4,9 +4,9 @@ currently:
 * 👩🏻‍🏫 instructor assistant @ kode with klossy <br>
 * 👩🏻‍💻 sys admin @ CoRE <br>
 <br>
-previously: 
-* 🌍 web @ helloo world
-* ⚡️ technical @ ttny 
+previously: <br>
+* 🌍 web @ helloo world <br>
+* ⚡️ technical @ ttny  <br>
 * 🦋 product @ trill project
 
 <!--
