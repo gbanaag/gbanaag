@@ -1,8 +1,10 @@
 # Helloo, World! 🌍 I'm Gabby Banaag 👋
 
 currently: 
+* MLH Top 50!
 * 👩🏻‍🏫 instructor assistant @ kode with klossy <br>
 * 👩🏻‍💻 sys admin @ CoRE <br>
+
 <br>
 previously: <br>
 - 🌍 web @ helloo world <br>
