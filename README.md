@@ -1,12 +1,13 @@
 # Helloo, World! 🌍 I'm Gabby Banaag 👋
 
 currently: 
-* MLH Top 50!
-* 👩🏻‍🏫 instructor assistant @ kode with klossy <br>
-* 👩🏻‍💻 sys admin @ CoRE <br>
+* 🏆 MLH Top 50! 
+* 🎯 Internship hunting
 
 <br>
 previously: <br>
+- 👩🏻‍🏫 instructor assistant @ kode with klossy <br>
+- 👩🏻‍💻 sys admin @ CoRE <br>
 - 🌍 web @ helloo world <br>
 - ⚡️ technical @ ttny  <br>
 - 🦋 product @ trill project
