@@ -2,7 +2,8 @@
 
 currently: 
 * 🏆 MLH Top 50! 
-* 🎯 Internship hunting
+* 🎯 internship hunting
+* 🛠 computer consultant @ binghamton ITS
 
 <br>
 previously: <br>
