@@ -1,6 +1,7 @@
-# Helloo, World! 🌍 I'm Gabby Banaag 👋
+# Hello, World! 🌍 I'm Gabby Banaag 👋
 
 currently: 
+* 🤝 incoming intern @ atlassian <3
 * 🏆 MLH Top 50! 
 * 🎯 internship hunting
 * 🛠 computer consultant @ binghamton ITS
@@ -8,8 +9,8 @@ currently:
 <br>
 previously: <br>
 - 👩🏻‍🏫 instructor assistant @ kode with klossy <br>
-- 👩🏻‍💻 sys admin @ CoRE <br>
-- 🌍 web @ helloo world <br>
+- 👩🏻‍💻 sys admin & vice president @ CoRE <br>
+- 🌍 web & ceo @ helloo world <br>
 - ⚡️ technical @ ttny  <br>
 - 🦋 product @ trill project
 
