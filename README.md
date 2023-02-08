@@ -3,7 +3,7 @@
 currently: 
 * 🤝 incoming intern @ atlassian <3
 * 🏆 MLH Top 50! 
-* 🎯 internship hunting
+* 🎯 fall 2023 internship hunting
 * 🛠 computer consultant @ binghamton ITS
 
 <br>
