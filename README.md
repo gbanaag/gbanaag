@@ -11,7 +11,7 @@ currently:
 previously: <br>
 - 👩🏻‍🏫 instructor assistant @ kode with klossy <br>
 - 👩🏻‍💻 sys admin & vice president @ CoRE <br>
-- 🛠 computer consultant @ binghamton ITS
+- 🛠 computer consultant @ binghamton ITS <br>
 - 🌍 web & ceo @ helloo world <br>
 - ⚡️ technical @ ttny  <br>
 - 🦋 product @ trill project
