@@ -3,14 +3,15 @@
 currently: 
 * 🤝 incoming intern @ atlassian <3
 * 🏆 MLH Top 50! 
+* ✨ Women in Tech Director of Outreach 
 * 🎓 Binghamton Computer Science '24
 * 🎯 fall 2023 internship hunting
-* 🛠 computer consultant @ binghamton ITS
 
 <br>
 previously: <br>
 - 👩🏻‍🏫 instructor assistant @ kode with klossy <br>
 - 👩🏻‍💻 sys admin & vice president @ CoRE <br>
+- 🛠 computer consultant @ binghamton ITS
 - 🌍 web & ceo @ helloo world <br>
 - ⚡️ technical @ ttny  <br>
 - 🦋 product @ trill project
