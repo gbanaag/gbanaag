@@ -1,14 +1,18 @@
 # Hello, World! 🌍 I'm Gabby Banaag 👋
 
 currently: 
-* 🤝 incoming intern @ atlassian <3
+* 🚀 apprentice @ raytheon
+* 🚩 github campus expert in progress
+* 📝 notion campus ambassador
 * 🏆 MLH Top 50! 
 * ✨ Women in Tech Director of Outreach 
-* 🎓 Binghamton Computer Science '24
-* 🎯 fall 2023 internship hunting
+* 🎓 Binghamton Computer Science
+* 🎯 spring 2024 internship hunting
 
 <br>
 previously: <br>
+- 🤝 intern @ atlassian
+- 🔌 apprentice @ meta, accenture
 - 👩🏻‍🏫 instructor assistant @ kode with klossy <br>
 - 👩🏻‍💻 sys admin & vice president @ CoRE <br>
 - 🛠 computer consultant @ binghamton ITS <br>
