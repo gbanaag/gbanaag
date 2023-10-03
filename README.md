@@ -11,8 +11,8 @@ currently:
 
 <br>
 previously: <br>
-- 🤝 intern @ atlassian
-- 🔌 apprentice @ meta, accenture
+- 🤝 intern @ atlassian <br>
+- 🔌 apprentice @ meta, accenture <br>
 - 👩🏻‍🏫 instructor assistant @ kode with klossy <br>
 - 👩🏻‍💻 sys admin & vice president @ CoRE <br>
 - 🛠 computer consultant @ binghamton ITS <br>
