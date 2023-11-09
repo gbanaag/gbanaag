@@ -1,6 +1,7 @@
 # Hello, World! 🌍 I'm Gabby Banaag 👋
 
 currently: 
+* 🇺🇸 incoming swe intern at Bank of America
 * 🚀 apprentice @ raytheon
 * 🚩 github campus expert in progress
 * 📝 notion campus ambassador
