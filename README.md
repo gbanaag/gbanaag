@@ -8,9 +8,9 @@ currently:
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbanaag&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br>
-previously: 
+previously: <br> 
 - 🎓 Binghamton Computer Science <br>
-- 📝 notion campus ambassador <br> 
+- 📝 notion, stackoverflow campus ambassador <br> 
 - 🚀 apprentice @ raytheon x gwc <br> 
 - ✨ Women in Tech Director of Outreach  <br> 
 - 🤝 engineering intern @ atlassian <br>
