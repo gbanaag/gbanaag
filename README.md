@@ -9,7 +9,8 @@ currently:
 * ✨ Women in Tech Director of Outreach 
 * 🎓 Binghamton Computer Science
 * 🎯 spring 2024 internship hunting
-
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbanaag&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br>
 previously: <br>
 - 🤝 intern @ atlassian <br>
