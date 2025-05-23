@@ -2,18 +2,18 @@
 
 currently: 
 * 🇺🇸 incoming swe at Bank of America
-* 🚩 github campus expert in progress
-* 📝 notion campus ambassador
+* 🎨 graphic information technology @ arizona state
 * 🏆 MLH Top 50!
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbanaag&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br>
 previously: 
-* 🚀 apprentice @ raytheon x gwc
-* ✨ Women in Tech Director of Outreach 
-* 🎓 Binghamton Computer Science <br>
-- 🤝 intern @ atlassian <br>
+- 🎓 Binghamton Computer Science <br>
+- 📝 notion campus ambassador <br> 
+- 🚀 apprentice @ raytheon x gwc <br> 
+- ✨ Women in Tech Director of Outreach  <br> 
+- 🤝 engineering intern @ atlassian <br>
 - 🔌 apprentice @ meta, accenture <br>
 - 👩🏻‍🏫 instructor assistant @ kode with klossy <br>
 - 👩🏻‍💻 sys admin & vice president @ CoRE <br>
